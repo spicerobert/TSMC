@@ -18,5 +18,4 @@ _site/
 Gemfile.lock
 
 # Configuration files
-config.ini
 service_account.json
